@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaustubh!
 - 😇 I’m a an amateuer poet and writer, who is interested in science as well, especially in Biology. 
-- 📚 I’m currently pursuing my BS-MS degree in Biology at IISER Pune. In particular, I am passionate about ecology, evolution and ethology.
+- 📚 In particular, I am passionate about ecology, evolution and ethology.
 - 👨🏻‍💻 Regarding coding, I am well-versed with Python, R, JavaScript, HTML, CSS. 
 - 🎮I am fond of building games. 
 - 🧬I also enjoy writing code for scientific projects.
