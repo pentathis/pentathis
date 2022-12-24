@@ -21,7 +21,7 @@ ___
 
 ___
 
- <h4 align="center"> Finding my way in this world 🌏 just like this turtle! 😅 </h4>
+ <h3 align="center"> Finding my way in this world 🌏 just like this turtle! 😅 </h3>
  
 <div align="center">
   <a href="https://github.com/Kaustubh522/Maze-Solving-Algorithm">
