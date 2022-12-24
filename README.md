@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ComicSans&size=25&duration=2000&pause=100&color=FFD700&width=435&lines=👋🏻+Hi,+I’m+Kaustubh!;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ComicSans&size=25&duration=2000&pause=100&color=FFD700&width=435&lines=👋🏻+Hi,+I’m+Kaustubh!;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 - 😇 I’m a an amateuer poet and writer, who is interested in science as well, especially in Biology
 - 📚 In particular, I am passionate about ecology, evolution and ethology
