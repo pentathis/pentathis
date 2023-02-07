@@ -14,8 +14,8 @@ ___
 
 <div align="center">
   <h3> 📊 My Stats </h3>
-  <a href="https://github.com/Kaustubh522/">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Kaustubh522&layout=compact&theme=dark" alt="Kaustubh Kulkarni :: Top Languages">
+  <a href="https://github.com/pentathis/">
+  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=pentathis&layout=compact&theme=dark" alt="Kaustubh Kulkarni :: Top Languages">
   </a>
 </div>
 
