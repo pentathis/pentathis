@@ -35,7 +35,7 @@ ___
 <h3 align="center"> Socials </h3>
 
 <div align="center"> 
-<code><a href="https://www.github.com/Kaustubh522" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/48/github.png" /></a><a href="https://www.linkedin.com/in/kaustubh-kulkarni-047019241" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/null/linkedin.png" /></a><a href="https://twitter.com/pentathis2002" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/null/twitter.png" /></a></code>
+<code><a href="https://www.github.com/pentathis" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/48/github.png" /></a><a href="https://www.linkedin.com/in/kaustubh-kulkarni-047019241" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/null/linkedin.png" /></a><a href="https://twitter.com/pentathis2002" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/null/twitter.png" /></a></code>
 </div>
 
 </div>
