@@ -5,7 +5,7 @@
 
 - 😇 I’m a an amateuer poet and writer, who is interested in science as well, especially in Biology
 - 📚 In particular, I am passionate about ecology, evolution and ethology
-- 👨🏻‍💻 Regarding coding, I am well-versed with Python, R, JavaScript, HTML, CSS
+- 👨🏻‍💻 Regarding coding, I am well-versed in Python, R, JavaScript, MATLAB, Julia, HTML, CSS
 - 🎮I am fond of building games
 - 🧬I also enjoy writing code for scientific projects
 - ⌛ In my free time (read: most of the time), I enjoy writing ✍🏻, reading 📖, drawing🎨 and contemplating💭
@@ -15,7 +15,7 @@ ___
 <div align="center">
   <h3> 📊 My Stats </h3>
   <a href="https://github.com/pentathis/">
-  <img src="https://github-readme-stats-zeta-orpin.vercel.app/api/top-langs/?username=pentathis&layout=compact&theme=dark" alt="Kaustubh Kulkarni :: Top Languages">
+  <img src="https://github-readme-stats-zeta-orpin.vercel.app/api/top-langs/?username=pentathis&layout=compact&theme=dark&hide=jupyter%20notebook&langs_count=6" alt="Kaustubh Kulkarni :: Top Languages">
   </a>
 </div>
 
